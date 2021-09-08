@@ -1,0 +1,4 @@
+X,Y,X1,Y1,N,Text,Font,Color,Size,Borntime,Speed,Sequence,Category
+0.64,0.6,0.3,0.25,5,"NOAA weather satellites are polar-orbiting satellites developed by NASA for the National Oceanic and Atmospheric Administration (NOAA). They are designed to take a local snap of the Earth from the orbit. But as they move in relation to the Earth, the system can provide a full global converage every 12 hours. ",enFont,#fff,30,125000,50,1,A
+0.64,0.6,0.3,0.25,5,The images taken by NOAA satellites series have played an important role in the early-day weather broadcasting and prediction cross the globe.,enFont,#fff,30,165000,50,1,A 
+0.64,0.6,0.3,0.25,5,"The NOAA-15 weather satellite (the oldest one among the ones we have collected signals from) was launched on May 13, 1998. Its original plan was to be in mission for only two years, but now it has been orbiting the Earth in the sun-synchronous orbit for more than 23 years.",enFont,#fff,30,195000,50,1,A 

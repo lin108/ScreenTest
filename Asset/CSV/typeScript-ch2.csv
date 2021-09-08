@@ -1,0 +1,7 @@
+X,Y,X1,Y1,N,Text,Font,Color,Size,Borntime,Speed,Sequence,Category
+0.6,0.6,0.3,0.25,5,"The operation of weather satellite can be summaried like a radio system. The polar-orbiting satellite takes images of the Earth as it passes through, while boardcasting the data back to the ground. Tuning into the specific frequency, ground stations can receive the analog signal and decode it. ",enFont,#fff,18,20000,50,1,A
+0.4,0.55,0.3,0.25,5,"In this process, the position of the satellite determines not only the image taken, but also its boardcasting coverage. ",enFont,#fff,19,55000,55,1,A
+0.2,0.4,0.3,0.25,5,"In other words, the received weather satellite images are the exact moment captured from above, as the satellite passing overhead, and immeditely received back on the ground. ",enFont,#fff,20,75000,50,1,A
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,#562FC8,,,,,
