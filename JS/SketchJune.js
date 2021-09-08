@@ -235,14 +235,14 @@ function setup() {
 	
 
 
-	createCanvas(1920, 5000);
+	createCanvas(1920, 5400);
 
 	//shader
-    WebglCanvas = createGraphics(1920,5000,WEBGL);
+    WebglCanvas = createGraphics(1920,5400,WEBGL);
 	pixelDensity(1);
 	noStroke();
 
-	WebglCanvas2 = createGraphics(1920,5000,WEBGL);
+	WebglCanvas2 = createGraphics(1920,5400,WEBGL);
 	pixelDensity(1);
 	noStroke();
     
@@ -659,7 +659,7 @@ function draw() {
 	
 		image(overAlltexture,0,0,width,height);
 	
-		script();
+		//script();
 		image(scriptCanvas,0,0);
 	
 		
